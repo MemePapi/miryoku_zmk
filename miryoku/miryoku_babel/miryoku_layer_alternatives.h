@@ -13,7 +13,7 @@
 // |  BUTT/Q  |  W       |  E  |  R  |  T          |   |  Y  |  U        |  I      |  O  |  P  | 
 // |  NAVI/A  |  LALT/S  |  D  |  F  |  G          |   |  H  |  J        |  K      |  L  |  ;  |
 // |  LGUI/Z  |  RALT/X  |  C  |  V  |  B          |   |  N  |  M        |  ,      |  .  |  /  | 
-//             | MEDI/ESC | LWR |  BSPC/LSHFT |   | SPC | RSE/BSPC  | ENT/ALT |
+//             | MEDI/ESC | NAV/RET|  MOUS/TAB |   | SYM/BSPC | NUM/SPC  | FUN/DEL |
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY_FLIP \
 U_LT(U_BUTTON, Q),             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
